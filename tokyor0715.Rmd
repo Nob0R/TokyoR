@@ -235,6 +235,8 @@ $$
 
 - Difference betweeen $\frac{11 \pi}{6}$ and $\frac{\pi}{3}$ is not $\frac{3\pi}{2}$ but **$\frac{\pi}{2}$** !!
 
+*$$ \frac{11 \pi}{6} - \frac{\pi}{3} = \frac{3\pi}{2}??$$*
+
 ```{r, echo=FALSE, out.width = '75%'}
 knitr::include_graphics("data/dif.png")
 ```
