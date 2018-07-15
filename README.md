@@ -2,7 +2,7 @@
 
 TokyoR公開用ページ
 
-- slide.rmd
-- slide.html
+- tokyor0715.rmd
+- tokyor0715.html
 
-https://Nob0R.github.io/TokyoR/slide.html
+https://Nob0R.github.io/TokyoR/tokyor0715.html
