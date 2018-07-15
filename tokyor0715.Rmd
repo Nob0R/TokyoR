@@ -471,7 +471,7 @@ wind_data %>%
   labs(x="Wind directions in dadians")
 ```
 
-## Preprovessing and MCMC settings
+## Preprocessing and MCMC settings
 
 - change the domain of $\theta$ and make a data list for MCMC
 
@@ -933,7 +933,7 @@ d.dat9 <- list(N=length(wind_data$theta_real),P=9,theta=wind_data$theta_real) # 
 d.dat10 <- list(N=length(wind_data$theta_real),P=10,theta=wind_data$theta_real) # for VAR(10)
 ```
 
-## Preprovessing and MCMC settings
+## Preprocessing and MCMC settings
 
 - change the domain of $\theta$ and make a data list for MCMC
 
